@@ -20,3 +20,10 @@ populate the host directory. Maybe I can get around this with the ENTRYPOINT wit
 Researched how to make the expect file to work and did testing on based on research. It was unsuccessful.
 
 ### R1D3 - 6/8/18
+
+### R1D4 - 6/9/18
+
+### R1D5 - 6/10/18
+
+### R1D6 - 6/11/18
+Altered Dockerfile and docker-entrypoint.sh to setup the build and allow for no setup once it has been run.
