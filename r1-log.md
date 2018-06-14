@@ -1,29 +1,14 @@
 # #100DaysOfCode Log - Round 1 - Mark Williams
 
-The log of my #100DaysOfCode challenge. Started on June 6, Tuesday, 2018.
+The log of my #100DaysOfCode challenge. Started on June 14, Thursday, 2018.
 
 Link to Repo: [jumpdrive-pwa](https://github.com/mark-w-325/jumpdrive-pwa.git)
 
 ## Log
 
-### R1D1 - 6/6/18
+### R1D1 - 6/14/18
+Restarted #100DaysofCode because I missed some days.
+* Figured out how to make Docker create the front-end
+* Figured out how to get Docker to serve the Vue.js front-end on the host
+* Got frontend (Vue.js) and backend (Python 3.6 and Flask) working and talking to each other
 
-Started working on Docker file and automation of prompts in vue-cli using expect for replication.
-* Docker file created installing all necessary software needed at this stage
-* Created .exp script to automate vue-cli prompts. 
-
-Things are not quite working how I would like for them to. I want on build to run the "expect" file and it
-populate the host directory. Maybe I can get around this with the ENTRYPOINT within the Dockerfile on container run.
-
-### R1D2 - 6/7/18
-
-Researched how to make the expect file to work and did testing on based on research. It was unsuccessful.
-
-### R1D3 - 6/8/18
-
-### R1D4 - 6/9/18
-
-### R1D5 - 6/10/18
-
-### R1D6 - 6/11/18
-Altered Dockerfile and docker-entrypoint.sh to setup the build and allow for no setup once it has been run.
