@@ -12,3 +12,4 @@ Restarted #100DaysofCode because I missed some days.
 * Figured out how to get Docker to serve the Vue.js front-end on the host
 * Got frontend (Vue.js) and backend (Python 3.6 and Flask) working and talking to each other
 
+Next up is to start a different tutorial for working with Python, Flask and Vue.js to get more familiarity.
